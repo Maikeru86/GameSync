@@ -33,6 +33,6 @@ I wanted to automate the process of adding non-steam games to my steam library, 
 pip install requests vdf
 ```
 - Add game folder
-- run script (.pyw for windowless)
+- run script GameSync.py (.pyw for windowless)
 - check if correct game executable has been chosen.
 
