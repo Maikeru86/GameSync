@@ -27,17 +27,17 @@ I wanted to automate the process of adding non-steam games to my steam library, 
 
 
 ## Usage
-Change the directories in the script.
+- Change the directories in the script.
 
-Install required libraries.
+- Install required libraries.
 
 ```py
 pip install requests vdf
 ```
 
-Add game folder
+- Add game folder
 
-run script
+- run script (.pyw for windowless)
 
-check if correct game executable has been chosen.
+- check if correct game executable has been chosen.
 
